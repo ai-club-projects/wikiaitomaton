@@ -11,7 +11,9 @@
 ## Всякое
 
 - DIRECTUS - https://boss.aitomaton.online/
-https://docs.directus.io/guides/headless-cms/
+
+~/projects/directus 
+
 
 
 # Задачи 
